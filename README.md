@@ -1,4 +1,5 @@
 ## 分布式数据仓库最佳实践 ##
+[前往->配套视频课程地址->网易云课堂](http://study.163.com/course/courseMain.htm?courseId=1005270022&utm_campaign=commission&utm_source=cp-1016839500&utm_medium=share)
 ### 第一部分	 数据战略篇 ###
 #### 第一章 战略框架 ####
 - 1.1 战略框架	
